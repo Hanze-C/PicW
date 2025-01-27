@@ -32,7 +32,7 @@ const storeSetup = () => {
       return formatUrl((username, repository, directory, filename) => [
         {
           label: 'jsDelivr',
-          text: `https://raw.hanze.icu/Dress-2/master/${filename}?token=Hanze`
+          text: `https://raw.hanze.icu/Dress-2/master/${filename}?token=HANZE`
         }
       ])
     }
